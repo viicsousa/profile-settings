@@ -73,7 +73,7 @@ export default function Home() {
             </div>
             <div className="flex flex-col gap-2 py-3">
               <div className="h-[0.1px] min-w-full bg-slate-700 opacity-10"></div>
-              <h5 className="py-2 font-semibold text-zinc-500">PREFERÊNCIAS</h5>
+              <h5 className="py-2 font-semibold text-zinc-500">PREFERÊNCIA</h5>
 
               <div className="flex items-center justify-between">
                 <div className="flex items-center gap-1">
